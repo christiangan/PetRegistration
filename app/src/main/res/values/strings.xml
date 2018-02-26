@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pet Registration</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_middlename">Middle Name</string>
+    <string name="hint_contactnum">Contact Number</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_barangay">Barangay</string>
+    <string name="hint_municipality">Municipality</string>
+    <string name="hint_province">Province</string>
+    <string-array name="vaccine_source">
+        <item>BAI</item>
+        <item>DARFO</item>
+        <item>PLGU</item>
+        <item>MLGU</item>
+        <item>DOH</item>
+        <item>NGO</item>
+        <item>OIE</item>
+    </string-array>
+</resources>
